@@ -1,2 +1,5 @@
-Simple vending machine implementation, written in Haskell for
-May 2009 St. Louis Lambda Lounge language shootout.
+Simple vending machine implementation, written in Haskell for the
+May 2009 St. Louis Lambda Lounge (lambdalounge.org) language shootout.
+
+It is based off the specifications written by Alex Miller (tech.puredanger.com) at
+http://stllambdalounge.files.wordpress.com/2009/03/vendingmachinespecification.pdf
